@@ -1,0 +1,10 @@
+D:\C#\Visual Studio 2019\CalcTemp\bin\Debug\CalcTemp.exe.config
+D:\C#\Visual Studio 2019\CalcTemp\bin\Debug\CalcTemp.exe
+D:\C#\Visual Studio 2019\CalcTemp\bin\Debug\CalcTemp.pdb
+D:\C#\Visual Studio 2019\CalcTemp\obj\Debug\CalcTemp.csprojAssemblyReference.cache
+D:\C#\Visual Studio 2019\CalcTemp\obj\Debug\CalcTemp.F_TempCalc.resources
+D:\C#\Visual Studio 2019\CalcTemp\obj\Debug\CalcTemp.Properties.Resources.resources
+D:\C#\Visual Studio 2019\CalcTemp\obj\Debug\CalcTemp.csproj.GenerateResource.cache
+D:\C#\Visual Studio 2019\CalcTemp\obj\Debug\CalcTemp.csproj.CoreCompileInputs.cache
+D:\C#\Visual Studio 2019\CalcTemp\obj\Debug\CalcTemp.exe
+D:\C#\Visual Studio 2019\CalcTemp\obj\Debug\CalcTemp.pdb
